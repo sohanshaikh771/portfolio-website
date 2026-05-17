@@ -503,13 +503,13 @@ function ContactSection() {
             </p>
             
             <div className="space-y-6">
-              <a href="mailto:hello@example.com" className="flex items-center gap-4 text-slate-300 hover:text-green-400 transition-colors group">
+              <a href="mailto:sohanshaikh771@gmail.com" className="flex items-center gap-4 text-slate-300 hover:text-green-400 transition-colors group">
                 <div className="w-12 h-12 rounded-full glass flex items-center justify-center group-hover:scale-110 transition-transform">
                   <Mail size={20} />
                 </div>
                 <div>
                   <div className="text-sm text-slate-500">Email Me</div>
-                  <div className="font-medium">contact@example.com</div>
+                  <div className="font-medium">sohanshaikh771@gmail.com</div>
                 </div>
               </a>
               {/* Add more social links here if needed */}
